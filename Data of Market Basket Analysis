@@ -1,0 +1,14 @@
+•	Data Set
+This dataset taken from the UCI repository of Datasets focuses on online transactions. It has 8 attributes, namely:
+1)	 Invoice Number
+2)	 Stock Code
+3)	 Description
+4)	 Quantity
+5)	 Invoice Date
+6)	 Unit Price
+7)	 Customer ID
+8)	 Country
+There is a total of 541,909 rows. All these provide information on the transactions by different customers. This data will be further processed and then analyzed. 
+
+This is the link to the dataset
+https://archive.ics.uci.edu/ml/machine-learning-databases/00352/
