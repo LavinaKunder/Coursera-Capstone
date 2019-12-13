@@ -10,5 +10,8 @@ This dataset taken from the UCI repository of Datasets focuses on online transac
 8)	 Country
 There is a total of 541,909 rows. All these provide information on the transactions by different customers. This data will be further processed and then analyzed. 
 
+The data consists of a number of online transactions and their details. It shows what items were bought together and the customer that bought them. It also shows which countries the customers originate from, therefor enabling us to see what items are most frequently bought where allowing targeted advertisement. 
+A lot of features may be used to extract relevant data. Apriori Algorithm may be used to find frequent itemsets. Seaborn and other visual libraries may be used to plot charts so as to identify different features of the data, like the customer base, most bought items, least bought items, etc. 
+
 This is the link to the dataset
 https://archive.ics.uci.edu/ml/machine-learning-databases/00352/
